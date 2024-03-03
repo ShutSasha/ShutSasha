@@ -16,6 +16,9 @@
 <p align="center">
   <a href="https://github.com/ShutSasha"><img src="https://github-readme-stats.vercel.app/api?username=ShutSasha&hide_border=true&show_icons=true" alt="SashaShut's github stats"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/ShutSasha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShutSasha&layout=compact&langs_count=6"></a>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shutsasha&" alt="shutsasha" /></p>
 
