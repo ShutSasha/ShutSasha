@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasha Shut'</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/564x/14/35/98/1435980fcf39f0c2fa8a8a3c97bec0d1.jpg" alt="Banner">
+  <img src="https://i.pinimg.com/564x/63/69/5d/63695df01d8438c301bd37cc35db82df.jpg" alt="Banner">
 </p>
 
 - 🌱 I’m currently learning **React & TypeScript**
